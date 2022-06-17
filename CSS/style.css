@@ -21,12 +21,12 @@ header {
 
     display: flex;
     flex-direction: column;
-    gap: 30px;
+    gap: 15px;
 }
 
 header h1 {
     overflow-y: hidden;
-    height: 160px;
+    height: 100px;
 }
 
 header p {
@@ -35,7 +35,7 @@ header p {
     font-size: 14px;
     line-height: 17px;
     color: black;
-
+    width: 50%;
     
 }
 
